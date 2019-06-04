@@ -1,0 +1,12 @@
+{
+    "name": "clonelin/sms",
+    "description": "sms",
+    "authors": [
+        {
+            "name": "clone",
+            "email": "bjbs08@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
